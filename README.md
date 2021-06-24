@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🐈
 
 - 🔭 I’m currently working with GFG-KIIT
 - 🌱 I’m currently learning Front End Web Development.
@@ -7,4 +7,4 @@
 - 💬 Ask me about Content Writing. (I love doing it :))
 - 📫 How to reach me: ammyhobis@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love making a labyrinth of illusions in my mind and turn them into poetry.
+- 🦋 Fun fact: I love making a labyrinth of illusions in my mind and turn them into poetry.
