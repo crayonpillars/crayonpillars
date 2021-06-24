@@ -16,22 +16,13 @@
 <div class="row">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-   <img src="https://img.shields.io/badge/React.Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-     <img src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
 
-![Ashish's Github stats](https://github-readme-stats.vercel.app/api?username=crayonpillars&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
+![Asmita's Github stats](https://github-readme-stats.vercel.app/api?username=crayonpillars&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crayonpillars&theme=tokyonight)](https://github.com/crayonpillars/github-readme-stats)<br> <br>
 ![Github Metrics](https://metrics.lecoq.io/crayonpillars)<br><br>
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=crayonpillars&theme=tokyonight)
