@@ -28,17 +28,5 @@
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=crayonpillars&theme=tokyonight)
 <br><br>![Github Trophies](https://github-profile-trophy.vercel.app/?username=crayonpillars) <br><br>
 
-
-
-## 📌 My Wakatime Stats
-<!--START_SECTION:waka-->
-```text
-Other      54 hrs 36 mins  █████████████████████▒░░░   85.28 % 
-Python     4 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-C          2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Markdown   54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-C++        41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-<!--END_SECTION:waka-->
   
 ### Show some ❤️ by starring some of the repositories!
