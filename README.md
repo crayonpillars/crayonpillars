@@ -24,7 +24,6 @@
 
 ![Asmita's Github stats](https://github-readme-stats.vercel.app/api?username=crayonpillars&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crayonpillars&theme=tokyonight)](https://github.com/crayonpillars/github-readme-stats)<br> <br>
-![Github Metrics](https://metrics.lecoq.io/crayonpillars)<br><br>
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=crayonpillars&theme=tokyonight)
 <br><br>![Github Trophies](https://github-profile-trophy.vercel.app/?username=crayonpillars) <br><br>
 
